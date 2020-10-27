@@ -1,0 +1,20 @@
+{
+    "Author": "jeffbow",
+    "ContentSize": 5542,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/invokevmaccessextensions/master/vmAccess.ps1",
+    "DownloadCount": 893,
+    "Id": "Invoke-VMAccessExtensions-2f6687c7",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 562,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-10T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook provides a way to execute the VM Access and BGInfo Extensions via Azure Automation. You can use this runbook to rename the local built-in Administrator account or change the password if you no longer know it.",
+    "Title": "Invoke-VMAccessExtensions",
+    "UpdatedDate": "2015-4-10T00:00:00",
+    "Url": "https://github.com/azureautomation/invokevmaccessextensions",
+    "UserTags": "Utility, VM Lifecycle Management"
+}
